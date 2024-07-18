@@ -7,11 +7,11 @@
 ## Problem Statement
 Employee attrition is a critical issue for organizations, leading to increased costs, loss of talent, and disruption of business operations. This project aims to analyze employee attrition patterns to identify key factors contributing to employee turnover and provide actionable insights to reduce attrition rates.
 ## Objective
-Analyze Employee Attrition: Identify the overall attrition rate and understand its distribution across various departments, age groups, education fields, and job roles.  
-Demographic Insights: Examine the demographic distribution of employees to understand which groups are more prone to attrition.  
-Job Satisfaction Analysis: Assess the job satisfaction levels across different job roles to identify areas of improvement.  
-Gender-Based Analysis: Investigate attrition rates by gender to uncover any significant differences.  
-Recommendations: Provide strategic recommendations to reduce employee attrition based on the analysis.  
+Analyze Employee Attrition: Identify the overall attrition rate and understand its distribution across various departments, age groups, education fields, and job roles.    
+Demographic Insights: Examine the demographic distribution of employees to understand which groups are more prone to attrition.    
+Job Satisfaction Analysis: Assess the job satisfaction levels across different job roles to identify areas of improvement.    
+Gender-Based Analysis: Investigate attrition rates by gender to uncover any significant differences.    
+Recommendations: Provide strategic recommendations to reduce employee attrition based on the analysis.    
 ## Key Insights
 1)Overall Attrition Rate:The overall attrition rate is 16.12%, with 237 out of 1,470 employees having left the organization.   
 
